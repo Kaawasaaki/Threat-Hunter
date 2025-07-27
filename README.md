@@ -30,9 +30,10 @@ Threat Hunter automates the search for anomalies across various parts of the Win
 
 ## Screenshot
 
-![Threat Hunter Screenshot](Screenshots/json_output.png)
+![Threat Hunter Screenshot](Screenshots/json_output.png)(
+![Threat_Hunter_Screenshot](Screenshots/csv_output.jpg)
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following on your Windows machine:
 
@@ -40,7 +41,7 @@ Before you begin, ensure you have the following on your Windows machine:
 *   **Python 3.x**: Make sure Python 3 is installed and added to your system's PATH.
 *   **Administrative Privileges**: The script requires administrative rights to access system information like services, event logs, and all running processes.
 
-## ⚙️ Installation
+##  Installation
 
 1.  **Clone the repository:**
     ```sh
@@ -58,13 +59,13 @@ Before you begin, ensure you have the following on your Windows machine:
     ```
     The key dependencies are `psutil`, `WMI`, `pywin32`, and `tabulate`.
 
-## 🖥️ Usage
+## 🖥Usage
 
 You must run the script from a command prompt or PowerShell with **Administrator privileges**.
 
 <br>
 
-▶️ **To run all checks at once:**
+▶ **To run all checks at once:**
 
 This is the recommended way to get a full system overview.
 
