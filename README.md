@@ -16,7 +16,7 @@
 
 This tool is perfect for initial triage on a potentially compromised machine to gather quick intelligence.
 
-## 🚀 Key Features
+##  Key Features
 
 Threat Hunter automates the search for anomalies across various parts of the Windows operating system.
 
@@ -28,9 +28,9 @@ Threat Hunter automates the search for anomalies across various parts of the Win
 *   **Recently Accessed Files**: Lists files recently opened by the user, which can help trace an attacker's activity.
 *   **Failed Logon Attempts**: Scans the Windows Security Event Log for failed logon attempts (Event ID 4625), a common sign of brute-force attacks.
 
-## 📸 Screenshot
+## Screenshot
 
-![Threat Hunter Screenshot](images/ss.png)
+![Threat Hunter Screenshot](Screenshots/json_output.png)
 
 ## 📋 Prerequisites
 
