@@ -30,8 +30,8 @@ Threat Hunter automates the search for anomalies across various parts of the Win
 
 ## Screenshot
 
-![Threat Hunter Screenshot](Screenshots/json_output.png)(
-![Threat_Hunter_Screenshot](Screenshots/csv_output.jpg)
+![Threat Hunter Screenshot](Screenshots/json_output.png)
+![Threat_Hunter_Screenshot](Screenshots/csv_output.png)
 
 ## Prerequisites
 
