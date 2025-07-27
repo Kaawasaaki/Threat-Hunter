@@ -1,0 +1,8 @@
+8.8.8.8
+example.com
+44d88612fea8a8f36de82e1278abb02f
+
+
+10.10.10.10
+facebook.com
+f3d6bcf459c44b6c54a13a8042c567b6
