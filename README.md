@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="images/logo.png" alt="Threat Hunter Logo" width="200"/>
+
   <h1>Threat Hunter</h1>
   <p>A simple yet effective threat hunting tool for Windows.</p>
 
