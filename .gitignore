@@ -196,12 +196,25 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+<<<<<<< HEAD
+=======
+# Cursor
+#  Cursor is an AI-powered code editor. `.cursorignore` specifies files/directories to
+#  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
+#  refer to https://docs.cursor.com/context/ignore-files
+.cursorignore
+.cursorindexingignore
+
+>>>>>>> 7847b2e20a99db1d5475a2a4d9be715492c139a0
 # Marimo
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
 
 # Streamlit
 .streamlit/secrets.toml
 
 results/
+=======
+>>>>>>> 7847b2e20a99db1d5475a2a4d9be715492c139a0
